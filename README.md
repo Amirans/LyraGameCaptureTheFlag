@@ -6,6 +6,8 @@ Unreal Engine 5 comes with a new feature called [Gameplay Feature Plugins](https
 
 This plugin is a standalone Capture the Flag game mode that can be added to the Lyra Start Game without any changes to the core content of the project.
 
+Watch the Gameplay Video [here](https://www.youtube.com/watch?v=Dbrez3j3f40) 
+
 # Installation
 
 - Install Unreal Engine 5.0 and above

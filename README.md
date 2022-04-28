@@ -12,7 +12,7 @@ Watch the Gameplay Video [here](https://www.youtube.com/watch?v=Dbrez3j3f40)
 
 - Install Unreal Engine 5.0 and above
 - Download Lyra Starter Game Project
-- Download and extract this plugin into the projects following directory  **LyraStarterGame\Plugins\GameFeatures\\**
+- Download and extract this plugin into the projects following directory **LyraStarterGame\Plugins\GameFeatures\ShooterCTF\**
 
 ## Roadmap
 

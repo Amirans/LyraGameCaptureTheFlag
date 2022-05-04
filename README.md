@@ -12,8 +12,14 @@ Watch the Gameplay Video [here](https://www.youtube.com/watch?v=Dbrez3j3f40)
 
 - Install Unreal Engine 5.0 and above
 - Download Lyra Starter Game Project
-- Download and extract this plugin into the projects following directory **LyraStarterGame\Plugins\GameFeatures\ShooterCTF\**
+- Download and extract this plugin into the projects following directory `LyraStarterGame\Plugins\GameFeatures\ShooterCTF\`
 
+![Directory Structure](https://i.imgur.com/FjoWlo0.png)
+- Once the Editor is loaded , Go to the Plugins Window and Activate the `ShooterCTF` plugin under the `GameFeatures` category
+
+![Activate the plugin](https://i.imgur.com/NfcOLTk.png)
+
+- Restart the Editor, and the Game mode should be activated automatically
 ## Roadmap
 
 There are some missing features that are not implemented yet.

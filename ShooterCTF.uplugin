@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "ShooterCTF",
-	"Description": "",
+	"Description": "This plugin is a standalone Capture the Flag game mode that can be added to the Lyra Start Game without any changes to the core content of the project.",
 	"Category": "Game Features",
 	"CreatedBy": "Amir Ansari",
 	"CreatedByURL": "https://twitter.com/AmirAnsari09",

@@ -20,8 +20,14 @@ Watch the Gameplay Video [here](https://www.youtube.com/watch?v=Dbrez3j3f40)
 ![Activate the plugin](https://i.imgur.com/NfcOLTk.png)
 
 - Restart the Editor, and the Game mode should be activated automatically
-## Roadmap
+
+# Roadmap
 
 There are some missing features that are not implemented yet.
 - AI Capture the flag logic
 - Players carrying the flag should drop the flag in place after dying
+
+
+# Pre-made Builds
+Here's a link to Mac and Windows builds of Lyra with this plugin/feature included, in case you want to try it without having to download Unreal Engine 5 and the Lyra Game sample project.  These builds are around 600Mb, Unreal Engine 5 + Lyra Game source is around 45Gb.
+  - https://drive.google.com/drive/folders/1cviBFtycP3VAoK5eheK04D54NZTmR-Cm?usp=sharing

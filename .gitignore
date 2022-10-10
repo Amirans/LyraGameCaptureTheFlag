@@ -46,7 +46,9 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
+Binaries/*
 Plugins/*/Binaries/*
+Plugins/**/Binaries/*
 !Binaries/*
 !Binaries/*/*.dll
 
@@ -70,6 +72,10 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# MacOS finder metadata files
+.DS_Store

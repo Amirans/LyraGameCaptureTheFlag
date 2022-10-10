@@ -21,7 +21,7 @@ Watch the Gameplay Video [here](https://www.youtube.com/watch?v=Dbrez3j3f40)
 
 - Restart the Editor, and the Game mode should be activated automatically
 
-# Pre-made Builds
+# Pre-made Playable Builds
 Here's a link to Mac and Windows builds of the Lyra Starter Project with this plugin/feature included, incase you want to try playing this game/feature without having to download Unreal Engine 5 and the Lyra Starter Game package.  These builds are around 600Mb, Unreal Engine 5 + Lyra Game source is around 45Gb.
   - https://drive.google.com/drive/folders/1cviBFtycP3VAoK5eheK04D54NZTmR-Cm?usp=sharing
 ![image](https://user-images.githubusercontent.com/3343322/194797345-6e13f0d5-001e-4401-bc87-da8edef240cf.png)
